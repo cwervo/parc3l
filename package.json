@@ -1,0 +1,10 @@
+{
+  "name": "parc3l",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "three": "^0.90.0"
+  }
+}
